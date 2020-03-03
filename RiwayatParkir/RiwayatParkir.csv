@@ -1,0 +1,22 @@
+ID;No. Plat;Jenis Kendaraan;Jam Masuk;Jam Keluar;Lama Parkir;Anggota;Tarif Parkir;Total Tagihan
+1;D2312DA;motor;16 Jan 2020 01.45.01;16 Jan 2020 02.50.01;01 jam 05 menit;umum;2000;4000
+2;B5534JK;mobil;16 Jan 2020 01.55.01;16 Jan 2020 02.50.01;01 jam 05 menit;Member;0;0
+3;D234MA;mobil;16 Jan 2020 02.18.10;17 Jan 2020 16.03.40;1.13:45:30.1162871;umum;70000;70000
+4;B123OK;motor;16 Jan 2020 02.17.30;17 Jan 2020 19.09.03;1.16:51:33.0178508;umum;17000;17000
+5;tes;motor;17 Jan 2020 19.12.18;17 Jan 2020 19.17.07;00:04:49.4040728;umum;1000;1000
+6;12344;motor;17 Jan 2020 22.32.46;17 Jan 2020 22.32.46;00:00:00.3968857;Member;0;50000
+7;mnmnb;motor;19 Jan 2020 11.02.57;19 Jan 2020 11.02.57;0 jam 0 menit;umum;1000;1000
+8;mnmnb;mobil;17 Jan 2020 22.46.44;19 Jan 2020 11.02.57;12 jam 16 menit;umum;39000;39000
+9;12344;motor;17 Jan 2020 22.43.52;19 Jan 2020 11.02.57;12 jam 19 menit;Member;0;0
+10;121212;motor;17 Jan 2020 22.37.22;19 Jan 2020 11.02.57;12 jam 25 menit;umum;13000;13000
+11;214234;motor;17 Jan 2020 22.32.46;19 Jan 2020 11.02.57;12 jam 30 menit;umum;13000;13000
+12;saya;motor;22 Jan 2020 21.23.04;22 Jan 2020 21.23.04;0 jam 0 menit;umum;1000;1000
+13;B2201MA;motor;16 Jan 2020 01.58.04;22 Jan 2020 21.23.04;19 jam 25 menit;umum;20000;20000
+14;D1234DA;motor;16 Jan 2020 01.45.01;18 Feb 2020 23.04.26;21 jam 19 menit;umum;22000;22000
+15;22222;mobil;18 Feb 2020 23.04.26;20 Feb 2020 16.35.31;17 jam 31 menit;umum;54000;54000
+16;B1234A;motor;20 Feb 2020 16.38.04;20 Feb 2020 16.38.04;0 jam 0 menit;umum;1000;1000
+17;teslagi;motor;3 Mar 2020 20.10.51;3 Mar 2020 20.31.41;0 jam 20 menit;umum;1000;1000
+18;tes;motor;3 Mar 2020 20.08.19;3 Mar 2020 20.31.41;0 jam 23 menit;umum;1000;1000
+19;tes;motor;3 Mar 2020 22.47.03;3 Mar 2020 22.48.04;0 jam 1 menit;umum;1000;1000
+20;tes;motor;3 Mar 2020 20.39.08;3 Mar 2020 22.48.04;2 jam 8 menit;umum;3000;3000
+21;qwert;motor;3 Mar 2020 22.52.07;3 Mar 2020 22.53.48;0 jam 1 menit;umum;1000;1000

@@ -1,0 +1,16 @@
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\bin\Debug\UAS_ParkirApp.exe.config
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\bin\Debug\UAS_ParkirApp.exe
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\bin\Debug\UAS_ParkirApp.pdb
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.Form1.resources
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.Properties.Resources.resources
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.csproj.GenerateResource.cache
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.exe
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.pdb
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.TarifParkir.resources
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.DaftarAnggota.resources
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.KendaraanKeluar.resources
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.KendaraanMasuk.resources
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.Riwayat.resources
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.karcis.resources
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.struk.resources
+C:\Users\Halim Syarif\source\repos\UAS_ParkirApp\obj\Debug\UAS_ParkirApp.csprojAssemblyReference.cache
